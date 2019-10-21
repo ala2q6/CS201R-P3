@@ -1,0 +1,10 @@
+1	Nathan		Humphrey 	Kansas		MO 	3.35
+2	Sara		Jonathan	LeesSummit	MO 	3.56
+3	Kayla		James		Liberty		KS 	3.78
+4	Kyle		Davis		Independence	KS 	2.98
+5	Zach		Smith		Kansas		MO 	3.13
+6	Alex		Taylor		Kansas		MO 	2.89
+7	Jason		Todd		Liberty		KS 	3.89
+8	Daniel		Earla		Independence	KS 	3.77
+9	Cody		Bunn		Independence	KS 	2.76
+10	Jasmine		Dang		LeesSummit 	MO 	3.62
